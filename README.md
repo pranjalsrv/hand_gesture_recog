@@ -12,6 +12,8 @@
 *   <span class="c12">[Python 2](https://www.google.com/url?q=https://www.python.org/downloads/release/python-272/&sa=D&ust=1578845012132000)</span><span class="c10">and</span> <span class="c12">[Python 3](https://www.google.com/url?q=https://www.python.org/downloads/release/python-381/&sa=D&ust=1578845012133000)</span><span class="c11 c10"> </span>
 *   <span class="c12">[OpenVINO Toolkit](https://www.google.com/url?q=https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_windows.html%23Install-Core-Components&sa=D&ust=1578845012133000)</span><span class="c11 c10"> (For Inference Speedup)</span>
 *   <span class="c12">[ROS](https://www.google.com/url?q=https://www.ros.org/install/&sa=D&ust=1578845012133000)</span><span class="c11 c10">  (For Simulation on Ubuntu)</span>
+*   <span class="c12">[Catkin wokspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)</span><span class="c11 c10">  (For settin up ROS)</span>
+*   <span class="c12">[Gazebo ROS](http://gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros)</span><span class="c11 c10">  (Simulation Environment)</span>
 
 <span class="c5"></span>
 
