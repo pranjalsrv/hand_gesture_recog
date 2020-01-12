@@ -35,7 +35,9 @@
 # SUBPROJECTS:
 
 *   <span class="c12">[Angle and Gesture Detection Project](https://www.google.com/url?q=https://drive.google.com/drive/folders/1HREBvGL-ueK6oai9B22IkoWd7Gd94VQY?usp%3Dsharing&sa=D&ust=1578845012134000)</span>
+*   <span class="c11 c15">ROS Integration</span>
 *   <span class="c11 c15">Drowsiness and Emotion Detection</span>
+
 
 <span class="c3"></span>
 
@@ -94,43 +96,33 @@
 
 <span class="c3">Steps to run:</span>
 
-<span class="c3">> Initialize OPENVINO environment using the command:-</span>
-
+*   <span class="c3">> Initialize OPENVINO environment using the command:-</span>
 <span class="c3">source /opt/intel/openvino/bin/setupvars.sh</span>
 
-<span class="c3">>Make sure to add the commands :</span>
-
+*   <span class="c3">>Make sure to add the commands :</span>
 <span class="c3">source /opt/ros/kinetic/setup.bash</span>
-
 <span class="c3">source ~/gesture_ros/gesture_ws/devel/setup.bash</span>
-
 <span class="c3">In your bash file. If not then add them, close the terminal and</span>
 
-<span class="c3">> cd into gesture_ros/ folder</span>
+*   <span class="c3">> cd into gesture_ros/ folder</span>
 
-<span class="c3">> Run app.py from the command line using the following command:-</span>
-
+*   <span class="c3">> Run app.py from the command line using the following command:-</span>
 <span class="c3">python3  app.py -m “model/pose_iter_102000.xml” -d “GPU”</span>
-
 <span class="c3">-d is and optional requirement</span>
 
-<span class="c3">>Open another terminal:-</span>
-
+*   <span class="c3">>Open another terminal:-</span>
 <span class="c3">Run the file named keypoint_ros.py using the following command</span>
-
 <span class="c3">rosrun test keypoint_ros.py</span>
 
-<span class="c3">> In another terminal window run the file named velocity_mapper.py</span>
+*   <span class="c3">> In another terminal window run the file named velocity_mapper.py</span>
 
-<span class="c3">> Open a new terminal window and launch an empty world in gazebo:</span>
-
+*   <span class="c3">> Open a new terminal window and launch an empty world in gazebo:</span>
 <span class="c3">roslaunch gazebo_ros empty_world.launch</span>
 
-<span class="c3">> In another new terminal type the command</span>
-
+*   <span class="c3">> In another new terminal type the command</span>
 <span class="c3">roslaunch m2wr_description spawn.launch</span>
 
-<span class="c3">> Try out the project by holding your palm in front of the laptop at different angles. The two wheeled bot will move according to your arm gestures.</span>
+*   <span class="c3">> Try out the project by holding your palm in front of the laptop at different angles. The two wheeled bot will move according to your arm gestures.</span>
 
 <span class="c3"></span>
 
@@ -140,11 +132,9 @@
 
 # EMOTION AND DROWSINESS DETECTION SUBPROJECT:
 
-<span class="c3">> If running emotion detection type:</span>
-
+*   <span class="c3"> If running emotion detection type:</span>
 <span class="c3">                        python emotions_sleepiness.py</span>
-
-<span class="c3">(Please be aware of dlib setup)</span>
+<span class="c3">(Please be aware of [dlib](dlib.net) setup)</span>
 
 <span class="c3"></span>
 
