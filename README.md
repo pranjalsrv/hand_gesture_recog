@@ -1,5 +1,5 @@
 # Gesture_Car_Backend
-### Gesture Drive
+# Gesture Drive
 
 ## Team: Smnke
 
@@ -9,7 +9,7 @@
 
 <span class="c11 c20"></span>
 
-<span class="c22">Requirements:</span>
+# Requirements:
 
 *   <span class="c12">[Python 2](https://www.google.com/url?q=https://www.python.org/downloads/release/python-272/&sa=D&ust=1578845012132000)</span><span class="c10">and</span> <span class="c12">[Python 3](https://www.google.com/url?q=https://www.python.org/downloads/release/python-381/&sa=D&ust=1578845012133000)</span><span class="c11 c10"> </span>
 *   <span class="c12">[OpenVINO Toolkit](https://www.google.com/url?q=https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_windows.html%23Install-Core-Components&sa=D&ust=1578845012133000)</span><span class="c11 c10"> (For Inference Speedup)</span>
@@ -17,13 +17,13 @@
 
 <span class="c5"></span>
 
-<span class="c5">Dataset Used:</span>
+# Dataset Used:
 
 <span class="c12">[CMU Perception Computing Lab’s OpenPose Hand Keypoint Dataset](https://www.google.com/url?q=http://domedb.perception.cs.cmu.edu/handdb.html&sa=D&ust=1578845012133000)</span>
 
 <span class="c11 c27"></span>
 
-<span class="c5">Machine Learning Models:</span>
+# Machine Learning Models:
 
 *   <span class="c12">[Hand Keypoint Detection Model](https://www.google.com/url?q=https://drive.google.com/open?id%3D1i8cahIVGcG52EDCr1s2y8hNNnDctcG_n&sa=D&ust=1578845012133000)</span><span class="c11 c10"> (Google Drive)</span>
 
@@ -33,7 +33,7 @@
 
 <span class="c11 c20"></span>
 
-<span class="c5">SUBPROJECTS:</span>
+# SUBPROJECTS:
 
 *   <span class="c12">[Angle and Gesture Detection Project](https://www.google.com/url?q=https://drive.google.com/drive/folders/1HREBvGL-ueK6oai9B22IkoWd7Gd94VQY?usp%3Dsharing&sa=D&ust=1578845012134000)</span>
 *   <span class="c11 c15">Drowsiness and Emotion Detection</span>
@@ -46,7 +46,7 @@
 
 <span class="c3"></span>
 
-<span class="c16">ANGLE AND GESTURE DETECTION PROJECT:</span>
+# ANGLE AND GESTURE DETECTION PROJECT:
 
 <span class="c3"></span>
 
@@ -91,7 +91,7 @@
 
 <span class="c3"></span>
 
-<span class="c3">ROS INTEGRATION:</span>
+# ROS INTEGRATION:
 
 <span class="c3">Steps to run:</span>
 
@@ -139,7 +139,7 @@
 
 <span class="c3"></span>
 
-<span class="c16">EMOTION AND DROWSINESS DETECTION PROJECT:</span>
+# EMOTION AND DROWSINESS DETECTION SUBPROJECT:
 
 <span class="c3">> If running emotion detection type:</span>
 
