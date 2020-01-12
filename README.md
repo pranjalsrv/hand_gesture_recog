@@ -1,11 +1,9 @@
-# Gesture_Car_Backend
+
 # Gesture Drive
 
 ## Team: Smnke
 
 <span class="c11 c20"></span>
-
-<span class="c23">STEPS TO RUN</span>
 
 <span class="c11 c20"></span>
 
@@ -25,11 +23,10 @@
 
 # Machine Learning Models:
 
-*   <span class="c12">[Hand Keypoint Detection Model](https://www.google.com/url?q=https://drive.google.com/open?id%3D1i8cahIVGcG52EDCr1s2y8hNNnDctcG_n&sa=D&ust=1578845012133000)</span><span class="c11 c10"> (Google Drive)</span>
+*   <span class="c12">[Hand Keypoint Detection Model](https://www.google.com/url?q=https://drive.google.com/open?id%3D1i8cahIVGcG52EDCr1s2y8hNNnDctcG_n&sa=D&ust=1578845012133000)</span><span class="c11 c10"> (Google Drive, download and keep in model/ folder)</span>
 
 *   <span class="c12">[Gesture Detection Model](https://www.google.com/url?q=https://drive.google.com/open?id%3D1k4i21ckAwomgV0HOYhn4NaeOswJJpPQ-&sa=D&ust=1578845012134000)</span><span class="c11 c10"> (Google Drive)</span>
 *   <span class="c11 c10">Drowsiness and Emotion Detection Model (Present in Project Files)</span>
-*   <span class="c11 c10">Autonomous Mode</span>
 
 <span class="c11 c20"></span>
 
