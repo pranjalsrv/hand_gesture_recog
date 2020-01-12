@@ -7,6 +7,7 @@
 
 <span class="c11 c20"></span>
 
+# Download Entire Project: [link](https://drive.google.com/folderview?id=1HREBvGL-ueK6oai9B22IkoWd7Gd94VQY)
 # Requirements:
 
 *   <span class="c12">[Python 2](https://www.google.com/url?q=https://www.python.org/downloads/release/python-272/&sa=D&ust=1578845012132000)</span><span class="c10">and</span> <span class="c12">[Python 3](https://www.google.com/url?q=https://www.python.org/downloads/release/python-381/&sa=D&ust=1578845012133000)</span><span class="c11 c10"> </span>
